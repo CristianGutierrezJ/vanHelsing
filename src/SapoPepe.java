@@ -33,16 +33,5 @@ public class SapoPepe extends Monstruo{
         return true;
     }
 
-    //public Double vvvvvv() {
-    //    return vitalidad;
-    //}
-
-
-
-    public static void main(String...args){
-        SapoPepe sapo = new SapoPepe();
-        System.out.println(sapo.getVitalidad());
-       
-    }
 
 }
